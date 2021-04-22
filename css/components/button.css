@@ -1,0 +1,26 @@
+.button-green {
+	background-color: #348042;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.button-grey {
+	background-color: rgb(50,50,50);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	
+}
+.button-grey:hover {
+	background-color: rgb(200, 200, 200);
+}
+
+.bottom-low {
+	margin-bottom: 100px;
+
+}
